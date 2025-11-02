@@ -25,3 +25,5 @@ lbl_status = tk.Label(root, text="No schedule set yet.")
 lbl_status.pack(pady=20)
 
 root.mainloop()
+
+<img width="423" height="248" alt="Capture333" src="https://github.com/user-attachments/assets/c30eaa25-2d88-4f91-93fd-38daab1a7256" />
